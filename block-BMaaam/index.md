@@ -2,6 +2,21 @@ writeCode
 
 Insert the data present in users.json into local mongodb database using `mongoimport` into a database called sample and collection named as users.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Write aggregation queries to perform following tasks.
 
 1. Find all users who are active.
